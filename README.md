@@ -1,4 +1,4 @@
 # MecSol
-Códigos en Julia para la clase de Mecánica de Sólidos
+Códigos en Julia y Python para la clase de Mecánica de Sólidos
 
 Julia codes for Solid Mechanics exercises

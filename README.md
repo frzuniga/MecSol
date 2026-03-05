@@ -3,4 +3,4 @@ Libretas de Jupyter en Julia y Python para las clases de Fundamentos de Mecánic
 
 Julia and Python codes for Solid Mechanics classes
 
-Para una guía de temas y libretas se puede consultar la libreta de Julia #00_introduction.ipynb#
+Para una guía de temas y libretas en Julia se puede consultar la libreta 00_introduction.ipynb
